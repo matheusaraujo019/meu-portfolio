@@ -61,7 +61,7 @@ Este repositório serve como uma vitrine viva da minha evolução técnica. Sint
 ### 👟 Galeria dos Tênis
 * **Descrição:** Interface moderna de uma loja online de calçados, com design responsivo, vitrine de destaques e carrinho dinâmico.
 * **Tecnologias:** HTML5, CSS3, JavaScript (Vanilla).
-* **🔗 [Ver Repositório do Projeto](https://github.com/matheusaraujo019/galeria-dos-tenis)**
+* **🔗 [Ver Repositório do Projeto](https://github.com/matheusaraujo019/loja-virtual-tenis)**
 
 ---
 
